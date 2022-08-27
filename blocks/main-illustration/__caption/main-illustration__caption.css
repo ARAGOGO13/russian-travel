@@ -1,0 +1,20 @@
+.main-illustration__caption {
+    font-size: 0.6rem;
+    line-height: 1.2;
+    color: #FFF;
+    text-transform: uppercase;
+    padding-top: 8px;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .main-illustration__caption {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .main-illustration__caption {
+        padding-left: 16px;
+    }
+}
