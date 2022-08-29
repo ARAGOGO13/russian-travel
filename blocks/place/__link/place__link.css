@@ -4,3 +4,7 @@
     color: #FFF;
     text-decoration: underline;
 }
+
+.place__link:hover {
+    opacity: .8;
+}

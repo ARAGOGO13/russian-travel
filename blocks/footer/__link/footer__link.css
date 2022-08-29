@@ -5,3 +5,15 @@
     color: #FFF;
     text-decoration: none;
 }
+
+@media screen and (max-width: 720px) {
+    .footer__link {
+        font-size: 1.5rem;
+        line-height: 1;
+        padding-bottom: 32px;
+    }
+
+    .footer__link:last-of-type {
+        padding-bottom: 0;
+    }
+}

@@ -1,4 +1,6 @@
 .footer__dev-information {
     margin: 0;
-    font-size: .9px;
+    font-size: .9rem;
+    line-height: 1.1;
+    color: #FFF;
 }
