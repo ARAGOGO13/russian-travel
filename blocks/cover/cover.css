@@ -1,0 +1,12 @@
+.cover {
+    background-color: #2A2C2F;
+    padding: 0 48px;
+    position: relative;
+    z-index: 1;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        padding: 0;
+    }
+}
