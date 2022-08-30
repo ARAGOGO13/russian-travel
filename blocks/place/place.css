@@ -14,6 +14,7 @@
 @media screen and (max-width: 768px) {
     .place {
         column-gap: 28px;
+        padding-bottom: 73px;
     }
 }
 
@@ -23,8 +24,8 @@
         flex-direction: column;
         padding-bottom: 50px;
     }
+}
 
-    .place:last-of-type {
-        padding-bottom: 0;
-    }
+.place:last-of-type {
+    padding-bottom: 0;
 }
