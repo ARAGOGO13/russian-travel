@@ -7,7 +7,7 @@
     padding-bottom: 32px;
     max-width: 560px;
     margin: 0 auto;
-    text-decoration: none
+    text-decoration: none;
 }
 
 @media screen and (max-width: 520px) {
