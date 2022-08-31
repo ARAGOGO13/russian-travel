@@ -13,3 +13,7 @@
         line-height: 1.2;
     }
 }
+
+.header__link:hover {
+    opacity: .8;
+}
